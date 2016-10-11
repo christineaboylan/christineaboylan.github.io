@@ -1,0 +1,6 @@
+Through the use of JS and jQuery, I am looking to accomplish the following:
+
+1. Scroll left nd right using background positioning/keydown functions
+2. Implement a form that will capture and store data from users
+3. Use the on.click function to have users submit contact information/send emails
+4. Install a widget that can connect users to my LinkedIn or other forms of social media
