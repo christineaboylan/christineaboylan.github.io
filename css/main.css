@@ -414,17 +414,6 @@ footer {
     opacity: 1;
 }
 
-.form-control::-webkit-placeholder, .form-control::-o-placeholder {
-    color: #d9d9d9;
-    font-size: 15px;
-    opacity: 1;
-}
-
-.form-control::-o-placeholder {
-    color: #d9d9d9;
-    font-size: 15px;
-    opacity: 1;
-}
 
 /*media queery*/
 @media (max-width: 480px) { 
