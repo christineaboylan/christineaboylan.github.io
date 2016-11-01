@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
   font-family: 'Arial', sans-serif;
 }
 
+.list-inline{
+  color:#ffffff;
+}
+
 p, .lead {
 	font-family: 'Arial', sans-serif;
 }
@@ -112,7 +116,7 @@ a:hover, a:focus {
 }
 
 .btn-secondary {
-  background-color: #000000;
+  background-color: #42f4b6;
   color: #231f20;
 }
 
@@ -173,6 +177,12 @@ a:hover, a:focus {
     position: fixed;
     top: -60px;
     transition: top 0.4s ease 0s;
+}
+
+.container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top:40px;
 }
 
 .navbar.open {
@@ -270,7 +280,7 @@ header {
 
 
 #be-the-first {
-  background: url(../img/gradient2.png) #231f20 no-repeat center center fixed;
+  background: url(../img/gradient2.png) #42f4b6 no-repeat center center fixed;
   min-height: 300px;
   background-size: cover;
 }
